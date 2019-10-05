@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://kit.fontawesome.com/72e4802971.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Boilerplate</title>
+  </head>
+  <body>
+    <!-- NAVIGATION -->
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+      <div class="container">
+        <a href="index.html" class="navbar-brand">Mentally</a>
+        <button
+          class="navbar-toggler"
+          data-toggle="collapse"
+          data-target="#navbarCollapse"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="#personality" class="nav-link">Personality</a>
+            </li>
+            <li class="nav-item">
+              <a href="#who" class="nav-link">Who are we?</a>
+            </li>
+            <li class="nav-item">
+              <a href="#contact" class="nav-link">Talk to someone</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Who -->
+
+    <header id="who">
+      <div class="dark-overlay">
+        <div class="home-inner container">
+          <div class="row">
+            <div class="col-lg-8 d-none d-lg-block">
+              <h1 class="display-4">
+                Get the <strong>mental health </strong> you need
+              </h1>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check"></i>
+                </div>
+                <div class="p-4 align-self-end  hero-text">
+                  Reach out to one of our mental health volunteers
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check"></i>
+                </div>
+                <div class="p-4 align-self-end hero-text">
+                  Get advice for you or someone dear to you
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check"></i>
+                </div>
+                <div class="p-4 align-self-end hero-text">
+                  Learn more about yourself and the ones around you
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4">
+              <div class="card bg-primary text-center card-form">
+                <div class="card-body">
+                  <h3>Send us a message</h3>
+                  <p>Fill out the form</p>
+                  <form>
+                    <div class="form-group">
+                      <input
+                        type="text"
+                        class="form-control form-control-lg"
+                        placeholder="Your Name"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <input
+                        type="email"
+                        class="form-control form-control-lg"
+                        placeholder="Your Email"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <input
+                        type="number"
+                        class="form-control form-control-lg"
+                        placeholder="Your Phone Number"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <textarea class="form-control" rows="3"></textarea>
+                    </div>
+                    <input
+                      type="submit"
+                      value="Send"
+                      class="btn btn-outline-light btn-block"
+                    />
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <script
+      src="http://code.jquery.com/jquery-3.4.1.min.js"
+      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      //Get the current year for the copyright
+      $("#year").text(new Date().getFullYear());
+    </script>
+  </body>
+</html>

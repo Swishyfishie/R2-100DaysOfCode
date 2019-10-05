@@ -21,10 +21,18 @@ On day 2 I did an weather app with the help of Traversy Media's JS tutorial and 
 ===
 
 ## Day 3 and 4
- 
+
 ## Error Handling and Regular expressions
 
-I wasn't able to post on Day 3 so I decided to post both 3 and 4 at the same time. 
+I wasn't able to post on Day 3 so I decided to post both 3 and 4 at the same time.
 Error handling. This might be useful when I'll go into debugging. I'm sure it's more useful than what I can see at the moment
 
-As for regular expressions ? I think I need to get used to them but I am ok with not reinventing the wheel as you can find many regex testers online for phone numbers, emails and all sort of things. 
+As for regular expressions ? I think I need to get used to them but I am ok with not reinventing the wheel as you can find many regex testers online for phone numbers, emails and all sort of things.
+
+===
+
+## Day 5
+
+## Iterators, Generators and a Dating profile scroller
+
+Today I had a short session of coding due to the fact that I want to play world of warcraft classic. Yep, that's my reason of not working for Tesla already. However, I had fun learning about iterators, generators and made a dating profile scroller.
