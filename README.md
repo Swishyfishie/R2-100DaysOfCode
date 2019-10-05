@@ -36,3 +36,21 @@ As for regular expressions ? I think I need to get used to them but I am ok with
 ## Iterators, Generators and a Dating profile scroller
 
 Today I had a short session of coding due to the fact that I want to play world of warcraft classic. Yep, that's my reason of not working for Tesla already. However, I had fun learning about iterators, generators and made a dating profile scroller.
+
+## Day 6
+
+## Github profile finder
+
+This should be an updated and better version of the previous github finder. Also, this one is built with React
+
+## Day 7 
+
+## JavaScript Patterns
+
+Wandered around in the magic of patterns
+
+## Day 8 
+
+## Mentally - bootstrap
+
+Started working on a revamped version of my Mentally website in bootstrap
