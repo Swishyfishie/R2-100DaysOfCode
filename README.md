@@ -14,9 +14,9 @@ In this project I used Github API calls, Classes, Promises, Async/Await and gene
 
 ---
 
-### Openweather_API project + Pig_lating challenge
+### Openweather_API project + Pig_latin challenge
 
-On day 2 I did an weather app with the help of Traversy Media's JS tutorial and replicated an app from a friend's repository. The pig lating app that he did was taking the first letter of a word and adding it to the end + the "ay" letters. He did it in python and I did it in JavaScript. Considering to quit studying javascript at this point.
+On day 2 I did an weather app with the help of Traversy Media's JS tutorial and replicated an app from a friend's repository. The pig latin app that he did was taking the first letter of a word and adding it to the end + the "ay" letters. He did it in python and I did it in JavaScript. Considering to quit studying javascript at this point.
 
 ===
 
